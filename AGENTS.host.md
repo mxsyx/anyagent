@@ -33,3 +33,7 @@
 - Each category directory must contain a `README.md` serving as a documentation index, with relative links and brief descriptions. Update the index whenever documents are added, moved, renamed, or deleted.
 - Store temporary files such as verification results, benchmark reports, and screenshots in `tmp/` at the project root.
 - Files in `tmp/` may be deleted at any time. Preserve conclusions and information needed for ongoing development or future documentation in the appropriate `docs/` category. Do not rely on files in `tmp/` for long-term reference.
+
+## Paths
+
+- All repository-relative paths in AGENTS.md files are relative to the repository root unless explicitly stated otherwise.
